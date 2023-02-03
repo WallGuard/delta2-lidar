@@ -1,0 +1,3 @@
+/home/mikhail/Documents/Delta2B-master/Delta-2B_SDK(linux,ros)/Delta_2B_linux/build/CMakeFiles/delta_2b_lidar_node.dir
+/home/mikhail/Documents/Delta2B-master/Delta-2B_SDK(linux,ros)/Delta_2B_linux/build/CMakeFiles/edit_cache.dir
+/home/mikhail/Documents/Delta2B-master/Delta-2B_SDK(linux,ros)/Delta_2B_linux/build/CMakeFiles/rebuild_cache.dir
